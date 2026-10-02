@@ -1,0 +1,52 @@
+.candidate-initiative {
+    /* padding-bottom: 10px; */
+    padding: 10px 20px;
+    background-color: white;
+    position: relative;
+    border-radius: 6px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.location-heading {
+    color: rgba(59, 112, 239, 1);
+    /* padding: 0px 2px 18px 0px; */
+    text-transform: uppercase;
+    font-style: bold;
+
+}
+
+
+.person-name {
+    text-transform: uppercase;
+    /* color: white; */
+}
+
+.district {
+    font-style: italic;
+    /* color: white; */
+}
+
+/* .date-holder {} */
+
+.content-heading {
+    background-color: var(--date-background-color);
+    color: var(--date-foreground-color);
+    /* font: ; */
+    font-style: bold;
+    font-size: xx-large;
+    text-transform: uppercase;
+    border-radius:18px;
+    padding:2px;
+    padding-right: 20px;
+    padding-left: 20px;
+    text-overflow: wrap;
+    /* margin-bottom:20px; */
+    /* margin-bottom: -70%; */
+}
+
+.date-header {
+    
+    /* text-transform: uppercase; */
+    /* color:white; */
+}
