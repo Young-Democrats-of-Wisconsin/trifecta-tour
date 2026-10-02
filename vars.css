@@ -1,0 +1,19 @@
+* {
+    /* date heading variables*/
+    --date-background-color: clear;
+    --date-foreground-color:white;
+    
+    /* --date-font: */
+
+    --chip-left-pointer: 
+        10px 
+        0 
+        10px 
+        10px;
+    --chip-right-pointer: 
+        10px
+        10px
+        10px
+        0;
+    --max-two-column-width: 600px;
+}
